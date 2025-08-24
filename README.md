@@ -145,7 +145,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=VinkRasengan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VinkRasengan&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 
 </div>
 
@@ -153,9 +153,9 @@
 
 <div align="center">
 
-### 🐍 Contribution Graph
+### � Activity Graph
 
-<img src="https://github.com/VinkRasengan/VinkRasengan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinkRasengan&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
